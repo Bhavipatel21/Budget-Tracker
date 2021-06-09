@@ -27,7 +27,7 @@ Navigate to : https://whispering-cove-17822.herokuapp.com/
 ## Usage
 
 ## Mock-up 
-![Workout tracker homepage](./public/assets/images/screenshots/budgettracker.png)
+![Workout tracker homepage](./public/assets/images/screenshots/budgettracker_01.png)
 
 
 
